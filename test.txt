@@ -1,4 +1,0 @@
-hello!master
-byebye!master
-Hi,master
-good
